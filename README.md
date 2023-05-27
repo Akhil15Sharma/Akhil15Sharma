@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi! I'm Deepanshu 👋, a Full-Stack MERN Developer 👨‍💻 🚀</h1>  
+  <h1 align="center">Hi! I'm Akhil 👋, a Full-Stack MERN Developer 👨‍💻 🚀</h1>  
 <img src="https://camo.githubusercontent.com/12254fd8d6359609f6f8bac3f69f098421ef772d916420cdf2dd703bbb4d39bd/68747470733a2f2f73646b2e6269746d6f6a692e636f6d2f72656e6465722f70616e656c2f32303035343930322d3130303132313639343235385f322d73352d76312e706e673f7472616e73706172656e743d312670616c657474653d31267363616c653d32" align="center" style="width: 45%; height:45% " />
 </div> 
 <br/>
