@@ -17,9 +17,7 @@ I am a Web Developer  from India.
 
 ### Technologies I use:
 
-> <img src='https://github.com/belferink1996/belferink1996/blob/main/icons/github.svg' alt='GitHub' height='60' /> <img src='https://github.com/belferink1996/belferink1996/blob/main/icons/html.svg' alt='HTML' height='60' /> <img src='https://github.com/belferink1996/belferink1996/blob/main/icons/css.svg' alt='CSS' height='60' /> <img src='https://github.com/belferink1996/belferink1996/blob/main/icons/javascript.svg' alt='JavaScript' height='60' /> <img src='https://tse3.mm.bing.net/th?id=OIP.EJvq45ECr2Wl5-OnwGyIhAHaHa&pid=Api&P=0&h=180' alt='Python' height='60' /> <img src='https://github.com/belferink1996/belferink1996/blob/main/icons/react.svg' alt='React.js' height='60' /> <img src='https://ucarecdn.com//18f8cbd7-fcd7-43b9-bc2e-3fc86cabf058/' alt='Netlify' height='60' /> <img src='https://github.com/belferink1996/belferink1996/blob/main/icons/redux.svg' alt='Redux' height='60' /> <img src='https://github.com/belferink1996/belferink1996/blob/main/icons/nodejs.svg' alt='Node.js' height='60' /> <img src='https://github.com/belferink1996/belferink1996/blob/main/icons/mongodb.svg' alt='MongoDB' height='60' /><img src='https://expressjs.com/images/express-facebook-share.png' alt='express.js' height='60' /><img src='https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-DarkLogo.png' alt='prisma' height='56' />
-> <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnFHz8fWJIEf4jyPe6v-5-nfoSWmcO4CdZtWFSNF4V&s' alt='graphql' height='60' /> 
-
+> <img src='https://github.com/belferink1996/belferink1996/blob/main/icons/github.svg' alt='GitHub' height='60' /> <img src='https://github.com/belferink1996/belferink1996/blob/main/icons/html.svg' alt='HTML' height='60' /> <img src='https://github.com/belferink1996/belferink1996/blob/main/icons/css.svg' alt='CSS' height='60' /> <img src='https://github.com/belferink1996/belferink1996/blob/main/icons/javascript.svg' alt='JavaScript' height='60' /> <img src='https://tse3.mm.bing.net/th?id=OIP.EJvq45ECr2Wl5-OnwGyIhAHaHa&pid=Api&P=0&h=180' alt='Python' height='60' /> <img src='https://tse1.mm.bing.net/th?id=OIP.ZHWy-hJ2CmVAsi3ieYFlSgAAAA&pid=Api&P=0&h=180' alt='Django' height='60' /> <img src='https://tse1.mm.bing.net/th?id=OIP.FwbJ8WvQjrXgPx3z4KlKHAHaHa&pid=Api&P=0&h=180' alt='Figma' height='60' /> <img src='https://tse2.mm.bing.net/th?id=OIP.Uybho23yF8k5YvL521Tq-wHaHa&pid=Api&P=0&h=180' alt='SQL' height='60' />
 
 <br/>
 
@@ -33,7 +31,7 @@ I am a Web Developer  from India.
   </div>
   <div align="center">
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmehra2102&layout=compact)](https://github.com/dmehra2102/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil15Sharma&layout=compact)](https://github.com/dmehra2102/github-readme-stats)
     
   </div>
   </div>
@@ -41,11 +39,11 @@ I am a Web Developer  from India.
   
   🔗 &nbsp;*Connect with me*
 <p align="left">
-<a href="https://www.linkedin.com/in/deepanshu-mehra-14a472233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepanshumehra" height="30" width="40" /></a>
+<a href="https:https://www.linkedin.com/in/akhil-sharma-825b70246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhilsharma" height="30" width="40" /></a>
 </p>
 
 <!--
-*dmehra2102/dmehra2102* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Akhil15Sharma/Akhil15Sharma* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
